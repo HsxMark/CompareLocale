@@ -1,10 +1,9 @@
-#!/usr/bin/env node
 /**
  * This script compares locale JSON files, checking for missing or extra keys
  * compared to a reference locale file.
  *
  * Usage:
- *   npm run check-locales-diff zh-Hant
+ *   node run check-locales-diff zh-Hant
  *
  * Parameters:
  *   locale_key (optional) : str
