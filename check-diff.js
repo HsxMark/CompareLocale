@@ -87,5 +87,4 @@ function main(localeKey) {
     }
   });
 }
-
 main(process.argv[2] || "zh-Hans");
