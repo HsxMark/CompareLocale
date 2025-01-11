@@ -3,7 +3,7 @@
  * compared to a reference locale file.
  *
  * Usage:
- *   node run check-locales-diff zh-Hant
+ *   node run check-locales-diff
  *
  * Parameters:
  *   locale_key (optional) : str
