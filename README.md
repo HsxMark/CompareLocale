@@ -1,7 +1,5 @@
 
 
-### Readme: Locale Key Comparison Tool
-
 # Locale Key Comparison Tool
 
 This script is designed to compare locale JSON files in a multilingual project to identify missing or extra keys in different language files. It provides a quick way to ensure consistency across locale files, helping maintain translation quality and completeness.
